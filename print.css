@@ -1,0 +1,18 @@
+
+@media print {
+/* insert your style declarations here */
+
+
+body {
+background: #fff;
+height:auto;
+   margin:auto;
+   padding:0;
+}
+
+.col-sm-12 {width: 100%;}
+#content-print .panel-default>.panel-heading {    color: #333;
+    background-color: #f5f5f5;
+    border-color: #ddd;}
+}
+
